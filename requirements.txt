@@ -1,0 +1,7 @@
+pandas
+fastapi
+uvicorn
+sentence-transformers
+chromadb
+transformers
+accelerate
